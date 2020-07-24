@@ -1,2 +1,2 @@
 # Simple-One-Page-Editor
-Simple One Page Editor in C++
+Simple One Page Editor in C
